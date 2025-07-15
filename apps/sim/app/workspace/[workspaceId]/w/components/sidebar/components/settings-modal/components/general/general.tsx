@@ -237,7 +237,7 @@ export function General() {
                   onCheckedChange={handleAutoPanChange}
                   disabled={isLoading}
                 />
-              </div>
+              </div> */}
             </>
           )}
         </div>
